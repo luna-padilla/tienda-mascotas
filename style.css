@@ -1,0 +1,74 @@
+header {
+    background-color: red;
+}
+
+.parraf-header1 {
+    color: rgb(234, 235, 235);
+    font-size: 0.6rem;
+    padding: 0.5rem 0rem 0.5rem 0rem;
+    text-align: center;
+
+}
+
+.parraf-header1>span {
+
+    color: white;
+}
+
+.parraf-header1 img {
+    margin-left: 0.3rem;
+    width: 0.6rem;
+}
+
+.header-div2 {
+    background-color: rgb(239, 80, 80);
+}
+
+.header-div2 img {
+    width: 8rem;
+}
+
+.header-div2-buscador {
+    border: none;
+    border-radius: 20px;
+}
+
+.header-div2-separador {
+    width: 1px;
+    /* Ancho de la línea */
+    height: 30px;
+    /* Altura de la línea */
+    background-color: #f8f4f4;
+}
+
+.contenido-parraf-header2 {
+    display: flex;
+    position: relative;
+}
+
+.parraf-header2 img {
+    margin: 20px;
+}
+
+.header-div2-formulario {
+    margin: 20px 15px;
+
+}
+
+.header-div2-separador {
+    position: relative;
+    top: 15px;
+}
+
+.header-div2-inicio-sesion {
+    margin-left: 15px;
+    text-align: center;
+    line-height: 61px;
+    color: white;
+
+}
+
+.header-div2-inicio-sesion:hover {
+    box-shadow: 0 2px 2px #9c9b9b;
+    background-color: red;
+}
