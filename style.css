@@ -68,7 +68,35 @@ header {
 
 }
 
+.imagen-banner {
+    width: 650px;
+    height: 160px;
+}
+
 .header-div2-inicio-sesion:hover {
     box-shadow: 0 2px 2px #9c9b9b;
     background-color: red;
+}
+
+.main-title1 {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+
+.imagen-aspa {
+    font-size: 40px;
+    color: #c4c2c2;
+    position: relative;
+    left: 100px;
+}
+
+.contenedor-img-aspa {
+    position: relative;
+}
+
+.contenedor-img1-carrusel {
+    width: 100px;
 }
